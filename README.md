@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamworldian
 - 👀 I’m interested in Software Engineering ofcourse.
-- 🌱 I’m currently learning Dart
-- 💞️ I’m looking to collaborate on Dart based projects
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on JS based projects
 - 📫 How to reach me 
     mail me : ashiqur15-1107@diu.edu.bd
 
