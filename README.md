@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Linux-command-line-practice-questions](https://github.com/iamworldian/Linux-command-line-practice-questions)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working with **React** && **NodeJS**
 
 - 👯 I’m looking to collaborate on [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
