@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashiqur Baig</h1>
-<h3 align="center">A in depth software engineer who always work with a problem first , solution last mind set</h3>
+<h3 align="center">Software engineer who always work with a problem first , solution last mind set</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamworldian&label=Profile%20views&color=0e75b6&style=flat" alt="iamworldian" /> </p>
 
